@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/AddMovies/static/css/main.29750fd1.chunk.css",
+    "main.js": "/AddMovies/static/js/main.a1b916b7.chunk.js",
+    "main.js.map": "/AddMovies/static/js/main.a1b916b7.chunk.js.map",
+    "runtime-main.js": "/AddMovies/static/js/runtime-main.c4555368.js",
+    "runtime-main.js.map": "/AddMovies/static/js/runtime-main.c4555368.js.map",
+    "static/js/2.c2ec4765.chunk.js": "/AddMovies/static/js/2.c2ec4765.chunk.js",
+    "static/js/2.c2ec4765.chunk.js.map": "/AddMovies/static/js/2.c2ec4765.chunk.js.map",
+    "index.html": "/AddMovies/index.html",
+    "precache-manifest.baf9955405142af9ed9da396c1665c5b.js": "/AddMovies/precache-manifest.baf9955405142af9ed9da396c1665c5b.js",
+    "service-worker.js": "/AddMovies/service-worker.js",
+    "static/css/main.29750fd1.chunk.css.map": "/AddMovies/static/css/main.29750fd1.chunk.css.map",
+    "static/js/2.c2ec4765.chunk.js.LICENSE.txt": "/AddMovies/static/js/2.c2ec4765.chunk.js.LICENSE.txt",
+    "static/js/main.a1b916b7.chunk.js.LICENSE.txt": "/AddMovies/static/js/main.a1b916b7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c4555368.js",
+    "static/js/2.c2ec4765.chunk.js",
+    "static/css/main.29750fd1.chunk.css",
+    "static/js/main.a1b916b7.chunk.js"
+  ]
+}
